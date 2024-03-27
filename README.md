@@ -44,43 +44,38 @@
     <img src="https://img.shields.io/badge/Coinbase-0052FF?style=for-the-badge&logo=Coinbase&logoColor=white" />
     <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
     <img src="https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
-    <img src="{BadgeURLHere}" />
+    <br />
+    <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white" />
+    <img src="https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=000" />
+    <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
+    <img src="https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white" />
+    <img src="https://img.shields.io/badge/nano-4A90E2?style=for-the-badge&logo=nano&logoColor=white" />
+    <img src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white" />
+    <br />
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+    <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+    <br />
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <br/>
+    <img src="" />
+    <img src="" />
+    <img src="" />
+    <img src="" />
+    <img src="" />
+    <img src="" />
+    <img src="" />
+    <img src="" />
+    <img src="" />
   </div>
 </div>
 
