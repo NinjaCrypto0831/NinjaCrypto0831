@@ -17,7 +17,7 @@
 
 🔗 Connect with me to discuss all things Blockchain, Software Development, and how we can work together to drive innovation and excellence in software development. Let's build a future where development and operations work in harmony to deliver exceptional software experiences.</br>
 
-📫 Feel free to reach out and connect with me here on GitHub or find me on LinkedIn to start a conversation. You can reach me on Email: louis.anders0831@outlook.com. Let's embark on this Blockchain journey together! 🚀</br>
+📫 Feel free to reach out and connect with me here on GitHub or find me on LinkedIn to start a conversation. Let's embark on this Blockchain journey together! 🚀</br>
 
 <!--- trophy (start) -->
 <p align = "center">
